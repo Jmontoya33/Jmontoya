@@ -17,3 +17,23 @@ button{
     background-color: purple;
     color: brown;
 }
+.table td{
+    border: 1px; solid;
+    text-align: center;
+}
+.table th:hover{
+    color: aqua;
+    background-color: black;
+}
+.table tr{
+    color: black;
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+caption{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.table td:hover{
+    color: azure;
+    background-color: blueviolet;
+}
